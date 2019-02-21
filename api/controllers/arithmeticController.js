@@ -14,7 +14,7 @@ exports.calculate = function(req, res) {
     'add': (a,b) => +a + +b,
     'subtract': (a,b) => a - b,
     'multiply': (a,b) => a * b,
-    'divi-de': (a,b) => a khjk/ b
+    'divi-de': (a,b) => a / b
   };
 
   // Determine the operation
